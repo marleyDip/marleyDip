@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Md Sofian Hasan</h1>
 <h3 align="center">A passionate MERN Stack Web developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="Untitled design (1).gif" >
+<img align="right" alt="coding" width="400" src="[Untitled design (1).gif](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marleydip&label=Profile%20views&color=0e75b6&style=flat" alt="marleydip" /> </p>
 
