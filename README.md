@@ -1,9 +1,9 @@
 [![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://marleyDip.io)
 
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:eftykharrahman@gmail.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/100?label=Followers&style=social)](https://twitter.com/iamraufu)
-<img src="https://komarev.com/ghpvc/?username=iamraufu">
-<!-- [![HitCount](http://hits.dwyl.com/iamraufu/iamraufu.svg)](http://hits.dwyl.com/iamraufu/iamraufu) -->
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:dip.akand9899@gmail.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/100?label=Followers&style=social)](https://twitter.com/akanddip94145)
+<img src="https://komarev.com/ghpvc/?username=marleyDip">
+<!-- [![HitCount](http://hits.dwyl.com/marleyDip/marleyDip.svg)](http://hits.dwyl.com/marleyDip/marleyDip) -->
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=marleyDip.marleyDip) -->
 <!--### Hi there 👋-->
