@@ -28,13 +28,12 @@
 ## GitHub Overview 💻
 
 <p align="left">
- <a href="https://github.com/marleyDip"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marleydip&theme=dark"></a>
-</p>
-<p align="left">
   <a href="https://github.com/marleyDip"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=marleydip&layout=compact&theme=radical" />
 </a>
+ 
+<p align="left">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marleydip&theme=dark"></a>
+</p>
+
 </p>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=marleydip&theme=synthwave&show_icons=true" alt="marleydip" />
-
-
-
