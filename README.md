@@ -1,18 +1,29 @@
 [![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://marleyDip.io)
-<h1 align="center">Hi 👋, I'm Md Sofian Hasan</h1>
-<h3 align="center">A passionate MERN Stack Web developer from Bangladesh</h3> <br>
 
-<img align="right" alt="coding" width="400" height="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" >
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:eftykharrahman@gmail.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/100?label=Followers&style=social)](https://twitter.com/iamraufu)
+<img src="https://komarev.com/ghpvc/?username=iamraufu">
+<!-- [![HitCount](http://hits.dwyl.com/iamraufu/iamraufu.svg)](http://hits.dwyl.com/iamraufu/iamraufu) -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marleydip&label=Profile%20views&color=0e75b6&style=flat" alt="marleydip" /> </p>
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=marleyDip.marleyDip) -->
+<!--### Hi there 👋-->
+<h3 align="center">
+  Welcome to Md Sofian Hasan's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-- 🌱 I’m currently learning **React.JS, Node.JS, Express.JS, Next.JS**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=600&lines=A+Passionate+Full+Stack+Web+Developer+from+Bangaladesh;Self+taught+UI%2FUX+Designer;1%2B+years+of+coding+experience;Always+learning+new+things">
+</p>
 
-- 💬 Ask me about **JavaScript, HTML, CSS**
+I am Md Sofian Hasan. But you will find me everywhere with the handle name **Marley Dip**. I'm a self-taught Web Developer.  
 
-- 📫 How to reach me **dip.akand9899@gmail.com**
+- 💻 I ~like~ **love** coding
+- 🌱 I’m currently learning **React.JS, Node.JS, Express.JS, Next.JS MongoDB**
+- - 💬 Ask me about **JavaScript, HTML, CSS**
+- 👯 I’m looking to collaborate on open-source and group projects.
 
-- ⚡ Fun fact **I am Funny**
+<img align="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
