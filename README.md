@@ -50,6 +50,7 @@ I'm keen on creating easy to understand web applications in **MERN Stack**. I lo
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![BootStrap5](https://img.shields.io/badge/-BootStrap-000000?style=flat&logo=bootstrap)
+![shadcn](https://img.shields.io/badge/-shadcn-000000?style=flat&logo=shadcn/ui)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
@@ -64,16 +65,21 @@ I'm keen on creating easy to understand web applications in **MERN Stack**. I lo
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
 ![EReact](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux) <br />
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux) 
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express) <br />
+![tailwindcss](https://img.shields.io/badge/-Tailwindcss-000000?style=flat&logo=tailwindcss)
 ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase) 
 ![Android](https://img.shields.io/badge/-Android%20Studio-000000?style=flat&logo=android)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000005?style=flat&logo=visual%20studio%20code)<br />
-![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-000000?style=flat&logo=Code::Blocks)
-![Microsoft Office ](https://img.shields.io/badge/-Microsoft%20Office-000000?style=flat&logo=microsoft%20office)
-![XAMPP](https://img.shields.io/badge/-XAMPP-000000?style=flat&logo=XAMPP)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual%20studio%20code)<br />
 ![Anaconda](https://img.shields.io/badge/-AnaConda-000000?style=flat&logo=AnaConda)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux)
+![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-000000?style=flat&logo=Code::Blocks)
+![XAMPP](https://img.shields.io/badge/-XAMPP-000000?style=flat&logo=XAMPP)
+![Microsoft Office ](https://img.shields.io/badge/-Microsoft%20Office-000000?style=flat&logo=microsoft%20office)
+
+
+
 
 ## GitHub Overview 💻
 
