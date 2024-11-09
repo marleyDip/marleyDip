@@ -28,12 +28,12 @@ I am Md Sofian Hasan. But you will find me everywhere with the handle name **Mar
 </p>
 <!-- Specializing in **Front End Development**. Experienced with different approaches to the development of dynamic web projects. Well-versed in numerous programming languages & libraries including **HTML5**, **CSS3**, **JavaScript**, **ReactJS**, **NodeJS**, **MongoDB**, **MySQL**, **PHP**, **Python**, **FORTRAN**, **MATLAB** etc. -->
 
-<!-- I'm interested in developing user friendly web apps in **MERN Stack**. I love to work with new technologies and playing with different stacks 🤖 -->
+<!-- I'm interested in developing user-friendly web apps in **MERN Stack**. I love to work with new technologies and play with different stacks 🤖 -->
 
 Having some expertise in **Front End Development**. Experienced with various ways to deal with the advancement of dynamic web projects. Knowledgeable in various programming dialects and libraries including **HTML5**, **CSS3**, **JavaScript**, **ReactJS**, **NodeJS**, **MongoDB**, **MySQL**, **PHP**, **Python** and so on. 
 
 
-I'm keen on creating easy to understand web applications in **MERN Stack**. I love to work with new advances and playing with various stacks 🤖  
+I'm keen on creating easy-to-understand web applications in **MERN Stack**. I love to work with new advances and play with various stacks 🤖  
 
 ## 🔗 Connect with me
 <p align="left">
@@ -44,7 +44,6 @@ I'm keen on creating easy to understand web applications in **MERN Stack**. I lo
 
 
 ## Languages 📙
-
 <!--![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)-->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
@@ -66,6 +65,7 @@ I'm keen on creating easy to understand web applications in **MERN Stack**. I lo
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
 ![EReact](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux) 
+![Vite](https://img.shields.io/badge/-Vite-000000?style=flat&logo=vite) 
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express) <br />
 ![tailwindcss](https://img.shields.io/badge/-Tailwindcss-000000?style=flat&logo=tailwindcss)
 ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify)
@@ -78,11 +78,7 @@ I'm keen on creating easy to understand web applications in **MERN Stack**. I lo
 ![XAMPP](https://img.shields.io/badge/-XAMPP-000000?style=flat&logo=XAMPP)
 ![Microsoft Office ](https://img.shields.io/badge/-Microsoft%20Office-000000?style=flat&logo=microsoft%20office)
 
-
-
-
 ## GitHub Overview 💻
-
 <p align="left">
   <a href="https://github.com/marleyDip"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=marleyDip&layout=compact&theme=radical" />
 </a>
