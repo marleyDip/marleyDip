@@ -67,12 +67,13 @@ I'm keen on creating easy to understand web applications in **MERN Stack**. I lo
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux) <br />
 ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase) 
-![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
+![Android](https://img.shields.io/badge/-Android%20Studio-000000?style=flat&logo=android)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000005?style=flat&logo=visual%20studio%20code)<br />
-![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word)
-![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
-![Adobe PS](https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe%20photoshop)
-![Adobe Ai](https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=flat&logo=adobe%20illustrator)
+![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-000000?style=flat&logo=Code::Blocks)
+![Microsoft Office ](https://img.shields.io/badge/-Microsoft%20Office-000000?style=flat&logo=microsoft%20office)
+![XAMPP](https://img.shields.io/badge/-XAMPP-000000?style=flat&logo=XAMPP)
+![Anaconda](https://img.shields.io/badge/-AnaConda-000000?style=flat&logo=AnaConda)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux)
 
 ## GitHub Overview 💻
 
