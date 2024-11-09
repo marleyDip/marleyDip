@@ -24,7 +24,7 @@ I am Md Sofian Hasan. But you will find me everywhere with the handle name **Mar
 - 🌱 I’m currently learning **React.JS, Node.JS, Express.JS, Next.JS MongoDB**
 - 💬 Ask me about **JavaScript, HTML, CSS**
 - 👯 I’m looking to collaborate on open-source and group projects.
-<br/>
+
 </p>
 <!-- Specializing in **Front End Development**. Experienced with different approaches to the development of dynamic web projects. Well-versed in numerous programming languages & libraries including **HTML5**, **CSS3**, **JavaScript**, **ReactJS**, **NodeJS**, **MongoDB**, **MySQL**, **PHP**, **Python**, **FORTRAN**, **MATLAB** etc. -->
 
