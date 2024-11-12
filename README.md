@@ -16,7 +16,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?center=true&width=600&lines=A+Passionate+Full+Stack+Web+Developer+from+Bangaladesh;Self+taught+UI%2FUX+Designer;1%2B+years+of+coding+experience;Always+learning+new+things">
 </p>
 
-I am Md Sofian Hasan. But you will find me everywhere with the handle name **Marley Dip**. I'm a self-taught Web Developer.
+I am Md Sofian Hasan. But you will find me everywhere with the handle name **marleyDip**. I'm a self-taught Web Developer.
 
 <img align="right" alt="coding" width="400" height="160" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" >
 
