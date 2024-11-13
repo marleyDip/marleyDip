@@ -1,11 +1,13 @@
 [![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://marleyDip.io)
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:dip.akand9899@gmail.com)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/100?label=Followers&style=social)](https://twitter.com/akanddip94145)
+
 <img src="https://komarev.com/ghpvc/?username=marleyDip">
 <!-- [![HitCount](http://hits.dwyl.com/marleyDip/marleyDip.svg)](http://hits.dwyl.com/marleyDip/marleyDip) -->
-
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=marleyDip.marleyDip) -->
+
 <!--### Hi there 👋-->
 <h3 align="center">
   Welcome to Md Sofian Hasan's profile!
@@ -30,7 +32,7 @@ I am Md Sofian Hasan. But you will find me everywhere with the handle name **mar
 
 <!-- I'm interested in developing user-friendly web apps in **MERN Stack**. I love to work with new technologies and play with different stacks 🤖 -->
 
-Having some expertise in **Front End Development**. Experienced with various ways to deal with the advancement of dynamic web projects. Knowledgeable in various programming dialects and libraries including **HTML5**, **CSS3**, **JavaScript**, **ReactJS**, **NodeJS**, **MongoDB**, **MySQL**, **PHP**, **Python** and so on. 
+Having some expertise in **Front End Development**. Experienced with various ways to deal with the advancement of dynamic web projects. Knowledgeable in various programming dialects and libraries, including **HTML5**, **CSS3**, **JavaScript**, **ReactJS**, **NodeJS**, **MongoDB**, **MySQL**, **PHP**, **Python** and so on. 
 
 
 I'm keen on creating easy-to-understand web applications in **MERN Stack**. I love to work with new advances and play with various stacks 🤖  
