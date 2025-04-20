@@ -20,7 +20,7 @@ I am Md Sofian Hasan. But you will find me everywhere with the handle name **mar
 <img align="right" alt="coding" width="400" height="160" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" >
 
 - 💻 I ~like~ **love** coding
-- 🌱 I’m currently learning **React.JS, Node.JS, Express.JS, Next.JS, MongoDB**
+- 🌱 I’m currently learning **React.JS, Node.JS, Express.JS, MongoDB, Vue.JS, Laravel, MySQL**, 
 - 💬 Ask me about **Anything JavaScript**
 - 👯 I’m looking to collaborate on open-source and group projects.
 
@@ -43,24 +43,21 @@ I'm keen on creating easy-to-understand web applications in **MERN Stack**. I lo
 
 
 ## Languages 📙
-<!--![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)-->
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![BootStrap5](https://img.shields.io/badge/-BootStrap-000000?style=flat&logo=bootstrap)
 ![shadcn](https://img.shields.io/badge/-shadcn-000000?style=flat&logo=shadcn/ui)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-CSS-000000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![Flutter](https://img.shields.io/badge/-Flutter-000005?style=flat&logo=flutter)
-<!--![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)-->
 
 ## Tools 🛠️
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
 ![EReact](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux) 
