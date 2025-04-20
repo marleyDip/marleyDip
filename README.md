@@ -49,7 +49,7 @@ I'm keen on creating easy-to-understand web applications in **MERN Stack**. I lo
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![BootStrap5](https://img.shields.io/badge/-BootStrap-000000?style=flat&logo=bootstrap)
 ![shadcn](https://img.shields.io/badge/-shadcn-000000?style=flat&logo=shadcn/ui)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-CSS-000000?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
