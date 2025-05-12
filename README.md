@@ -43,7 +43,7 @@ I'm keen on creating easy-to-understand web applications in **MERN Stack**. I lo
 
 
 ## Languages 📙
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
@@ -51,7 +51,6 @@ I'm keen on creating easy-to-understand web applications in **MERN Stack**. I lo
 ![shadcn](https://img.shields.io/badge/-shadcn-000000?style=flat&logo=shadcn/ui)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![Flutter](https://img.shields.io/badge/-Flutter-000005?style=flat&logo=flutter)
 
 ## Tools 🛠️
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
