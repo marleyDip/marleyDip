@@ -64,13 +64,9 @@ I'm keen on creating easy-to-understand web applications in **MERN Stack**. I lo
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express) <br />
 ![tailwindcss](https://img.shields.io/badge/-Tailwindcss-000000?style=flat&logo=tailwindcss)
 ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify)
+![Vercel](https://img.shields.io/badge/-vercel-000000?style=flat&logo=netlify)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase) 
-![Android](https://img.shields.io/badge/-Android%20Studio-000000?style=flat&logo=android)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual%20studio%20code)<br />
-![Anaconda](https://img.shields.io/badge/-AnaConda-000000?style=flat&logo=AnaConda)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=Linux)
-![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-000000?style=flat&logo=Code::Blocks)
-![XAMPP](https://img.shields.io/badge/-XAMPP-000000?style=flat&logo=XAMPP)
 ![Microsoft Office ](https://img.shields.io/badge/-Microsoft%20Office-000000?style=flat&logo=microsoft%20office)
 
 ## GitHub Overview 💻
