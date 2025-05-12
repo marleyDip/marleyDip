@@ -66,7 +66,7 @@ I'm keen on creating easy-to-understand web applications in **MERN Stack**. I lo
 ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=Vercel)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase) 
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual%20studio%20code)<br />
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visualstudiocode)<br />
 ![Microsoft Office ](https://img.shields.io/badge/-Microsoft%20Office-000000?style=flat&logo=microsoft%20office)
   
 ## GitHub Overview 💻
