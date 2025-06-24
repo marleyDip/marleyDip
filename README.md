@@ -83,7 +83,6 @@ I'm keen on creating easy-to-understand web applications in **MERN Stack**. I lo
 
 <p align="left">
   <a href="https://github.com/marleyDip">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marleyDip&theme=dark" alt="marleyDip's GitHub streak stats" />
+    <img align="center" src="https://streak-stats.demolab.com?user=marleyDip&theme=dark" />
   </a>
 </p>
-
