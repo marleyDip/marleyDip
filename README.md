@@ -15,24 +15,24 @@
   <img src="https://readme-typing-svg.herokuapp.com?center=true&width=650&lines=A+Passionate+Full+Stack+Web+Developer+from+Bangaladesh;Self+taught+MERN+Developer;1%2B+years+of+coding+experience;Always+learning+new+things">
 </p>
 
-I am Md Sofian Hasan. But you will find me everywhere with the handle name **marleyDip**. I'm a self-taught Web Developer.
+I am Md Sofian Hasan. However, you can find me everywhere under the handle name **marleyDip**. I'm a self-taught Web Developer.
 
 <img align="right" alt="coding" width="400" height="160" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" >
 
 - 💻 I ~like~ **love** coding
-- 🌱 I’m currently learning **React.JS, Node.JS, Express.JS, MongoDB, Vue.JS, Laravel, MySQL**, 
+- 🌱 I’m currently learning **React.JS, Next.JS, Node.JS, Express.JS, MongoDB**, 
 - 💬 Ask me about **Anything JavaScript**
 - 👯 I’m looking to collaborate on open-source and group projects.
 
 </p>
-<!-- Specializing in **Front End Development**. Experienced with different approaches to the development of dynamic web projects. Well-versed in numerous programming languages & libraries including **HTML5**, **CSS3**, **JavaScript**, **ReactJS**, **NodeJS**, **MongoDB**, **MySQL**, **PHP**, **Python**, **FORTRAN**, **MATLAB** etc. -->
+<!-- Specializing in **Front End Development**. Experienced with different approaches to the development of dynamic web projects. Well-versed in numerous programming languages & libraries including **HTML5**, **CSS3**, **JavaScript**, **ReactJS**, **NextJS** **NodeJS**, **ExpressJS**, **MongoDB**, **MySQL**, **PHP** -->
 
 <!-- I'm interested in developing user-friendly web apps in **MERN Stack**. I love to work with new technologies and play with different stacks 🤖 -->
 
-Having some expertise in **Back End Development**. Experienced with various ways to deal with the advancement of dynamic web projects. Knowledgeable in various programming dialects and libraries, including **HTML5**, **CSS3**, **JavaScript**, **ReactJS**, **NodeJS**, **MongoDB**, **MySQL**, **PHP**, **Python** and so on. 
+Having some expertise in **Front End Development**. Experienced with various ways to deal with the advancement of dynamic web projects. Knowledgeable in various programming dialects and libraries, including **HTML5**, **CSS3**, **JavaScript**, **ReactJS**, **NextJS** **NodeJS**, **ExpressJS**, **MongoDB**, **MySQL**, **PHP**. 
 
 
-I'm keen on creating easy-to-understand web applications in **MERN Stack**. I love to work with new advances and play with various stacks 🤖  
+I'm keen on creating easy-to-understand web applications in the **MERN Stack**. I love to work with new advances and play with various stacks 🤖  
 
 ## 🔗 Connect with me
 <p align="left">
@@ -83,7 +83,6 @@ I'm keen on creating easy-to-understand web applications in **MERN Stack**. I lo
 
 <p align="left">
   <a href="https://github.com/marleyDip">
-   <img src="https://streak-stats.demolab.com?user=marleyDip&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
-
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marleyDip&theme=dark" />
   </a>
 </p>
