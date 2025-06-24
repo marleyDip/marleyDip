@@ -83,6 +83,7 @@ I'm keen on creating easy-to-understand web applications in **MERN Stack**. I lo
 
 <p align="left">
   <a href="https://github.com/marleyDip">
-    <img align="center" src="https://streak-stats.demolab.com?user=marleyDip&theme=dark" />
+   <img src="https://streak-stats.demolab.com?user=marleyDip&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+
   </a>
 </p>
