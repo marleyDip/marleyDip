@@ -70,11 +70,20 @@ I'm keen on creating easy-to-understand web applications in **MERN Stack**. I lo
 ![Microsoft Office ](https://img.shields.io/badge/-Microsoft%20Office-000000?style=flat&logo=microsoft%20office)
   
 ## GitHub Overview 💻
+
 <p align="left">
-  <a href="https://github.com/marleyDip"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=marleyDip&layout=compact&theme=radical" />
-</a>
+  <a href="https://github.com/marleyDip">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marleyDip&layout=compact&theme=radical" />
+  </a>
 </p>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=marleyDip&theme=synthwave&show_icons=true" alt="iamdiwp" />
+
 <p align="left">
- <a href="https://github.com/marleyDip"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marleyDip&theme=dark"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=marleyDip&theme=synthwave&show_icons=true" alt="marleyDip's GitHub stats" />
 </p>
+
+<p align="left">
+  <a href="https://github.com/marleyDip">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marleyDip&theme=dark" alt="marleyDip's GitHub streak stats" />
+  </a>
+</p>
+
