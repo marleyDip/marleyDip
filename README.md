@@ -21,8 +21,8 @@ I am Md Sofian Hasan. However, you can find me everywhere under the handle name 
 
 - 💻 I ~like~ **love** coding. ❤
 - 🔭 Concentrating on mastering **FullStack development(both Frontend & Backend)**. 😎
-- 🌱 I’m currently learning **React.JS, Next.JS, Node.JS, Express.JS, MongoDB**, 
-- 💬 Ask me about **Anything JavaScript**
+- 🌱 I’m currently learning **React.JS, Next.JS, Node.JS, Express.JS, MongoDB**.
+- 💬 Ask me about **Anything JavaScript**.
 - 🥅 2025 Goals: Learn new technologies and tools.
 - 👯 I’m looking to collaborate on open-source and group projects.
 - 📰 Reading tech documentation whenever possible.
