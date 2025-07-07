@@ -19,11 +19,15 @@ I am Md Sofian Hasan. However, you can find me everywhere under the handle name 
 
 <img align="right" alt="coding" width="400" height="160" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" >
 
-- 💻 I ~like~ **love** coding
+- 💻 I ~like~ **love** coding. ❤
+- 🔭 Concentrating on mastering **FullStack development(both Frontend & Backend)**. 😎
 - 🌱 I’m currently learning **React.JS, Next.JS, Node.JS, Express.JS, MongoDB**, 
 - 💬 Ask me about **Anything JavaScript**
+- 🥅 2025 Goals: Learn new technologies and tools.
 - 👯 I’m looking to collaborate on open-source and group projects.
-
+- 📰 Reading tech documentation whenever possible.
+- ⚡ Fun fact: Equal is Not Always Equal in JavaScript. 🤣
+  
 </p>
 <!-- Specializing in **Front End Development**. Experienced with different approaches to the development of dynamic web projects. Well-versed in numerous programming languages & libraries including **HTML5**, **CSS3**, **JavaScript**, **ReactJS**, **NextJS** **NodeJS**, **ExpressJS**, **MongoDB**, **MySQL**, **PHP** -->
 
