@@ -12,7 +12,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=650&lines=A+Passionate+Full+Stack+Web+Developer+from+Bangaladesh;Self+taught+MERN+Developer;1%2B+years+of+coding+experience;Always+learning+new+things">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=650&lines=A+Passionate+Full+Stack+Web+Developer+from+Bangaladesh;Self+taught+MERN+Developer;2%2B+years+of+coding+experience;Always+learning+,+Always+building">
 </p>
 
 I’m a self-taught **software engineer** with a strong focus on **modern web development**. Having some **expertise** in **front-end development**. 
