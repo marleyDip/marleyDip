@@ -33,10 +33,7 @@ I am Md Sofian Hasan. However, you can find me everywhere under the handle name 
 
 <!-- I'm interested in developing user-friendly web apps in **MERN Stack**. I love to work with new technologies and play with different stacks 🤖 -->
 
-Having some expertise in **Front End Development**. Experienced with various ways to deal with the advancement of dynamic web projects. Knowledgeable in various programming dialects and libraries, including **HTML5**, **CSS3**, **JavaScript**, **ReactJS**, **NextJS**, **NodeJS**, **ExpressJS**, **MongoDB**, **MySQL**, **PHP**. 
-
-
-I'm keen on creating easy-to-understand web applications in the **MERN Stack**. I love to work with new advances and play with various stacks 🤖  
+I am a passionate **MERN Stack developer** with expertise in building **dynamic and responsive web applications**. Skilled in **JavaScript**, **ReactJS**, **NextJS**, **NodeJS**, **ExpressJS**, **MongoDB**, and **MySQL**, I create seamless user experiences with clean, maintainable code. I enjoy turning complex problems into simple, elegant solutions and continuously learning new technologies to stay ahead in the fast-evolving web development landscape.
 
 ## 🔗 Connect with me
 <p align="left">
