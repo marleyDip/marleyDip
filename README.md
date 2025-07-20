@@ -15,7 +15,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?center=true&width=650&lines=A+Passionate+Full+Stack+Web+Developer+from+Bangaladesh;Self+taught+MERN+Developer;1%2B+years+of+coding+experience;Always+learning+new+things">
 </p>
 
-I am Md Sofian Hasan. However, you can find me everywhere under the handle name **marleyDip**. I'm a self-taught Web Developer.
+I’m a self-taught **software engineer** with a strong focus on **modern web development**. Having some **expertise** in **front-end development**. 
 
 <img align="right" alt="coding" width="400" height="160" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" >
 
