@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://marleyDip.io)
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:dip.akand9899@gmail.com)
-[![Visit Portfolio](https://img.shields.io/badge/Portfolio-blue?style=social&logo=react)](https://marleydip.netlify.app/)
+[![Visit Portfolio](https://img.shields.io/badge/Explore My Portfolio-blue?color=14171A&style=social&logo=react)](https://marleydip.netlify.app/)
 <img src="https://komarev.com/ghpvc/?username=marleyDip">
 <!-- [![HitCount](http://hits.dwyl.com/marleyDip/marleyDip.svg)](http://hits.dwyl.com/marleyDip/marleyDip) -->
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=marleyDip.marleyDip) -->
