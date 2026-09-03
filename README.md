@@ -17,15 +17,45 @@
   <img src="https://komarev.com/ghpvc/?username=marleyDip&style=for-the-badge&color=8A2BE2&label=PROFILE%20VIEWS" alt="Profile Views" />
   
   <a href="https://github.com/marleyDip?tab=followers" target="_blank">
-  <img
-    src="https://img.shields.io/github/followers/marleyDip?style=for-the-badge&color=2979FF&labelColor=0A0A0A&label=FOLLOWERS"
-    alt="GitHub Followers"
-  />
-</a>
-
+    <img
+      src="https://img.shields.io/github/followers/marleyDip?style=for-the-badge&color=2979FF&labelColor=0A0A0A&label=FOLLOWERS"
+      alt="GitHub Followers"
+    />
+  </a>
 </p>
 
 </div>
+
+---
+
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+
+### `whoami`
+
+```ts
+const nazmusSakib = {
+  title    : "Full Stack Developer & Web Instructor",
+  company  : "Programming Hero 🏫",
+  education: "B.Sc. CSE — Green University of Bangladesh",
+  location : "Dhaka, Bangladesh 🇧🇩",
+
+  stack: {
+    frontend : ["Next.js", "React", "TypeScript", "Tailwind"],
+    backend  : ["Node.js", "Express.js", "REST API"],
+    database : ["MongoDB", "PostgreSQL", "Prisma"],
+    auth     : ["BetterAuth", "JWT", "Firebase"],
+  },
+
+  currentFocus : ["DevOps", "CI/CD", "SaaS Architecture"],
+  teaching     : ["Full Stack", "Aggregation Pipelines", "API Design"],
+  openTo       : ["Collaborations", "Open Source", "Freelance Projects"],
+  motto        : "Build it. Break it. Teach it. Ship it. 🚢",
+};
+```
+
+<br clear="right"/>
+
+---
 
 I’m a self-taught **software engineer** with a strong focus on **modern web development**. Having some **expertise** in **front-end development**. 
 
