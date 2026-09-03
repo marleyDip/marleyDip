@@ -137,13 +137,14 @@ const sofian = {
 
 <div align="center">
 
-<a href="https://marleydip.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Visit%20My%20Portfolio-FF1CF7?style=for-the-badge&labelColor=0A0A0A" alt="Portfolio" />
-</a>
+  [![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Visit%20My%20Portfolio-00F5FF?style=for-the-badge&labelColor=0a0a0a)](https://marleydip.netlify.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marleydip/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dip.akand9899@gmail.com)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MarleyDip1/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marley_dwip/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marleyDip)
 
-<a href="https://github.com/marleyDip" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+
 
 <a href="https://www.linkedin.com/in/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -158,41 +159,17 @@ const sofian = {
 ---
 
 <div align="center">
-
-<img src="https://github.com/NS-Sheam/NS-Sheam/blob/output/github-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
-
-<br />
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65"
-  alt="Thanks for visiting"
-/>
-
-</div>
-
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-nazmussakib.dev-00F5FF?style=for-the-badge&labelColor=0a0a0a)](https://nazmussakib.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nazmus-sakib-sheam)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:123sheamfeni@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nazmus.sheam.sakib)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nazmus_sakib_sheam)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ns-sheam)
+  
+  <img src="https://github.com/marleyDip/marleyDip/blob/output/github-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+  
+  <br />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65"
+    alt="Thanks for visiting"
+  />
 
 </div>
 
----
-
-<div align="center">
-
-![snake gif](https://github.com/NS-Sheam/NS-Sheam/blob/output/github-snake-dark.svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks+for+visiting!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65" alt="footer wave"/>
-
-</div>
 
 I’m a self-taught **software engineer** with a strong focus on **modern web development**. Having some **expertise** in **front-end development**. 
 
