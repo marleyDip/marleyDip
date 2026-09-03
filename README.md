@@ -18,7 +18,7 @@
   
   <a href="https://github.com/marleyDip?tab=followers" target="_blank">
   <img
-    src="https://img.shields.io/github/followers/marleyDip?style=for-the-badge&color=00F5FF&labelColor=2979FF&label=FOLLOWERS"
+    src="https://img.shields.io/github/followers/marleyDip?style=for-the-badge&color=2979FF&labelColor=0A0A0A&label=FOLLOWERS"
     alt="GitHub Followers"
   />
 </a>
