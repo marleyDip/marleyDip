@@ -87,6 +87,46 @@ const sofian = {
 
 ---
 
+## ⚡ What I'm Up To
+
+## ⚡ What I'm Up To
+
+<table>
+<tr>
+<td width="50%">
+
+🚀 **Building**
+
+Full-stack web applications with the MERN & PERN stack.
+
+Currently focusing on scalable APIs, clean architecture, database design, and production-ready features.
+
+🧩 **Working With**
+
+React, Next.js, TypeScript, Node.js, Express.js, NestJS, MongoDB & PostgreSQL.
+
+</td>
+
+<td width="50%">
+
+🌱 **Learning & Exploring**
+
+DevOps, Docker, CI/CD, GitHub Actions, VPS & Nginx.
+
+💡 **Exploring**
+
+SaaS architecture, AI integrations, system design, and scalable multi-tenant applications.
+
+🎯 **Improving**
+
+Problem-solving, backend architecture, database modeling, and writing maintainable code.
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
