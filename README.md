@@ -8,7 +8,7 @@
 
 <br/>
 
-<div>
+<p>
   <a href="https://marleydip.netlify.app/" target="_blank">
     <img 
       src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-VISIT%20WEBSITE-FFD600?style=for-the-badge&labelColor=0A0A0A"
@@ -16,9 +16,7 @@
     />
   </a>
 
-  <a>
-  <img src="https://komarev.com/ghpvc/?username=marleyDip&style=for-the-badge&color=8A2BE2&label=PROFILE%20VIEWS" alt="Profile Views" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=marleyDip&style=for-the-badge&color=8A2BE2&label=PROFILE%20VIEWS" alt="Profile Views" />
   
   <a href="https://github.com/marleyDip?tab=followers" target="_blank">
     <img
@@ -26,7 +24,7 @@
       alt="GitHub Followers"
     />
   </a>
-</div>
+</p>
 
 </div>
 
