@@ -6,8 +6,6 @@
   alt="Typing SVG"
 />
 
-<br/>
-
 <p>
   <a href="https://marleydip.netlify.app/" target="_blank">
     <img 
