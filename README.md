@@ -95,7 +95,7 @@ const sofian = {
 
 🚀 **Building**
 
-Full-stack web applications using the **MERN & PERN stack**.
+Full-stack web applications using the ***MERN & PERN stack***.
 
 Working on real-world projects while improving my skills in frontend development, backend architecture, REST APIs, and database design.
 
@@ -107,15 +107,15 @@ React, Next.js, TypeScript, Node.js, Express.js, NestJS, MongoDB & PostgreSQL.
 
 <td width="50%">
 
-🌱 **_Learning_**
+🌱 **Learning**
 
 Docker, CI/CD Pipelines, GitHub Actions, VPS, Nginx, and deployment workflows.
 
-💡 **_Exploring_**
+💡 **Exploring**
 
 SaaS development, AI integrations, system design, and scalable application architecture.
 
-🎯 **_Improving_**
+🎯 **Improving**
 
 Problem-solving, backend architecture, database modeling, and writing maintainable code.
 
