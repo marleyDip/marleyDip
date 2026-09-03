@@ -150,9 +150,14 @@ const sofian = {
 
 <div align="center">
   
-  <img src="https://github.com/marleyDip/marleyDip/blob/output/github-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+   <img
+    src="https://raw.githubusercontent.com/marleyDip/marleyDip/output/github-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
   
   <br />
+  
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65"
     alt="Thanks for visiting"
