@@ -6,6 +6,12 @@
 
 <br/>
 
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=700&size=30&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Hi!%20I'm%20Md.%20Sofian%20Hasan%20%F0%9F%91%8B;Full-Stack%20MERN%20%26%20PERN%20Engineer;Building%20Modern%20Web%20Applications;React%20%E2%80%A2%20Next.js%20%E2%80%A2%20Node.js%20%E2%80%A2%20Nest.js;Turning%20Ideas%20Into%20Digital%20Products%20%F0%9F%9A%80"
+  alt="Typing SVG"
+/>
+
+
 <p>
   <a href="https://nazmussakib.dev/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-nazmussakib.dev-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=FF1CF7" alt="portfolio"/></a>
   <img src="https://komarev.com/ghpvc/?username=ns-sheam&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="views" />
