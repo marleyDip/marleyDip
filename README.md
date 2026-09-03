@@ -163,10 +163,7 @@ Problem-solving, backend architecture, database modeling, and writing maintainab
 
 <div align="center">
 
-<a href="https://github.com/marleyDip">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marleyDip&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF1CF7&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marleyDip&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff"/>
-</a>
+<a href="https://github.com/marleyDip"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=marleyDip&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF1CF7&text_color=ffffff"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marleyDip&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff"/></a>
 
 <br/><br/>
 
@@ -178,21 +175,13 @@ Problem-solving, backend architecture, database modeling, and writing maintainab
 
 ## 📈 Contribution Graph
 
-<div align="center">
-
-[![Sofian Hasan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marleyDip&bg_color=0D1117&color=00F5FF&line=FF1CF7&point=FFFFFF&area=true&hide_border=true)](https://github.com/marleyDip/github-readme-activity-graph)
-
-</div>
+<div align="center">[![Sofian Hasan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marleyDip&bg_color=0D1117&color=00F5FF&line=FF1CF7&point=FFFFFF&area=true&hide_border=true)](https://github.com/marleyDip/github-readme-activity-graph)</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=marleyDip&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=2&column=4)](https://github.com/marleyDip)
-
-</div>
+<div align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=marleyDip&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=2&column=4)](https://github.com/marleyDip)</div>
 
 ---
 
@@ -213,17 +202,10 @@ Problem-solving, backend architecture, database modeling, and writing maintainab
 
 <div align="center">
   
-   <img
-    src="https://raw.githubusercontent.com/marleyDip/marleyDip/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
+  <img src="https://raw.githubusercontent.com/marleyDip/marleyDip/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%" />
   
   <br />
   
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65"
-    alt="Thanks for visiting"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65" alt="Thanks for visiting" />
 
 </div>
