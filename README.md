@@ -151,7 +151,7 @@ const sofian = {
 <div align="center">
   
    <img
-    src="https://raw.githubusercontent.com/marleyDip/marleyDip/output/github-snake-dark.svg"
+    src="https://raw.githubusercontent.com/marleyDip/marleyDip/output/github-snake.svg"
     alt="GitHub Contribution Snake"
     width="100%"
   />
