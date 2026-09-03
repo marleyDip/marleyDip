@@ -109,17 +109,11 @@ React, Next.js, TypeScript, Node.js, Express.js, NestJS, MongoDB & PostgreSQL.
 
 <td width="50%">
 
-🌱 **Learning & Exploring**
+🌱 **Learning DevOps** Docker, CI/CD Pipelines, GitHub Actions, VPS & Nginx.
 
-DevOps, Docker, CI/CD, GitHub Actions, VPS & Nginx.
+💡 **Exploring** SaaS architecture, AI integrations, system design, and scalable multi-tenant applications.
 
-💡 **Exploring**
-
-SaaS architecture, AI integrations, system design, and scalable multi-tenant applications.
-
-🎯 **Improving**
-
-Problem-solving, backend architecture, database modeling, and writing maintainable code.
+🎯 **Improving** Problem-solving, backend architecture, database modeling, and writing maintainable code.
 
 </td>
 </tr>
