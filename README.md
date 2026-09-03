@@ -204,34 +204,6 @@ Problem-solving, backend architecture, database modeling, and writing maintainab
 </div>
 
 
-I’m a self-taught **software engineer** with a strong focus on **modern web development**. Having some **expertise** in **front-end development**. 
-
-<img align="right" alt="coding" width="400" height="160" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" >
-
-- 💻 I ~like~ **love** coding. ❤
-- 🔭 Concentrating on mastering **Full-Stack development(both Frontend & Backend)**. 😎
-- 🌱 I’m currently learning **React.JS, Next.JS**.
-- 💬 Ask me about **Anything JavaScript**.
-- 🥅 2025 Goals: Learn new technologies and tools.
-- 👯 I’m looking to collaborate on open-source and group projects.
-- 📰 Reading tech documentation whenever possible.
-- ⚡ Fun fact: Equal is Not Always Equal in JavaScript. 🤣
-  
-</p>
-<!-- Specializing in **Front End Development**. Experienced with different approaches to the development of dynamic web projects. Well-versed in numerous programming languages & libraries including **HTML5**, **CSS3**, **JavaScript**, **ReactJS**, **NextJS** **NodeJS**, **ExpressJS**, **MongoDB**, **MySQL**, **PHP** -->
-
-<!-- I'm interested in developing user-friendly web apps in **MERN Stack**. I love to work with new technologies and play with different stacks 🤖 -->
-
-I am a passionate **MERN Stack developer** with expertise in building **dynamic and responsive web applications**. Skilled in **JavaScript**, **ReactJS**, **NextJS**, **NodeJS**, **ExpressJS**, **MongoDB**, and **MySQL**, I create seamless user experiences with clean, maintainable code. I enjoy turning complex problems into simple, elegant solutions and continuously learning new technologies to stay ahead in the fast-evolving web development landscape.
-
-## 🔗 Connect with me
-<p align="left">
-<a href="https://twitter.com/akanddip94145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akanddip94145" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marleydip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marleydip" height="30" width="40" /></a>
-<a href="https://fb.com/marleydip1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marleydip1" height="30" width="40" /></a>
-<a href="https://instagram.com/marley_dwip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marley_dwip" height="30" width="40" /></a>
-
-
 ## GitHub Overview 💻
 
 <p align="left">
