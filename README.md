@@ -1,4 +1,4 @@
-[![MasterHead](./assets/banner.svg)](https://marleydip.netlify.app/)
+[![MasterHead](./assets/banner.gif)](https://marleydip.netlify.app/)
 
 <div align="center">
 
