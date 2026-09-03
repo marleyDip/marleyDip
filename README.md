@@ -8,17 +8,21 @@
 
 <p>
   <a href="https://marleydip.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-VISIT%20WEBSITE-FF1CF7?style=for-the-badge&labelColor=0A0A0A" alt="Portfolio" />
+    <img 
+      src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-VISIT%20WEBSITE-FF1CF7?style=for-the-badge&labelColor=0A0A0A"
+      alt="Portfolio" 
+    />
+  </a>
+  
+  <img src="https://komarev.com/ghpvc/?username=marleyDip&style=for-the-badge&color=8A2BE2&label=PROFILE%20VIEWS" alt="Profile Views" />
+  
+  <a href="https://github.com/marleyDip?tab=followers" target="_blank">
+  <img
+    src="https://img.shields.io/github/followers/marleyDip?style=for-the-badge&color=00F5FF&labelColor=0A0A0A&label=FOLLOWERS"
+    alt="GitHub Followers"
+  />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=marleyDip&style=for-the-badge&color=8A2BE2&label=PROFILE%20VIEWS" alt="Profile Views" />
-
-<a href="https://github.com/marleyDip?tab=followers" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%91%A5%20FOLLOWERS-VIEW%20PROFILE-00F5FF?style=for-the-badge&labelColor=0A0A0A" alt="Followers" />
-</a>
-
-  <img src="https://komarev.com/ghpvc/?username=marleyDip&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="views" />
-  <img src="https://img.shields.io/github/followers/marleyDip?style=for-the-badge&color=FF1CF7&labelColor=0a0a0a&label=FOLLOWERS" alt="followers" />
 </p>
 
 </div>
