@@ -9,7 +9,7 @@
 <p>
   <a href="https://marleydip.netlify.app/" target="_blank">
     <img 
-      src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-VISIT%20WEBSITE-FF1CF7?style=for-the-badge&labelColor=0A0A0A"
+      src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-VISIT%20WEBSITE-D500F9?style=for-the-badge&labelColor=0A0A0A"
       alt="Portfolio" 
     />
   </a>
@@ -18,7 +18,7 @@
   
   <a href="https://github.com/marleyDip?tab=followers" target="_blank">
   <img
-    src="https://img.shields.io/github/followers/marleyDip?style=for-the-badge&color=D500F9&labelColor=0A0A0A&label=FOLLOWERS"
+    src="https://img.shields.io/github/followers/marleyDip?style=for-the-badge&color=FF6B00&labelColor=0A0A0A&label=FOLLOWERS"
     alt="GitHub Followers"
   />
 </a>
