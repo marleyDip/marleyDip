@@ -9,7 +9,7 @@
 <p>
   <a href="https://marleydip.netlify.app/" target="_blank">
     <img 
-      src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-VISIT%20WEBSITE-B026FF?style=for-the-badge&labelColor=0A0A0A"
+      src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-VISIT%20WEBSITE-FFD600?style=for-the-badge&labelColor=0A0A0A"
       alt="Portfolio" 
     />
   </a>
