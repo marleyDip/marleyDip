@@ -2,7 +2,12 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=HI!+I'm+Md+Sofian+Hasan+%F0%9F%91%8B;Full+Stack+Engineer;Nest.js+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Building+Products.+TeachingMinds.+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=HI!+I'm+Md+Sofian+Hasan+%F0%9F%91%8B;Full+Stack+(MERN & PERN)+Engineer;Nest.js+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Building+Products.+TeachingMinds.+%F0%9F%9A%80" alt="Typing SVG" />
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=800&size=32&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Hi!%20I'm%20Md.%20Sofian%20Hasan%20%F0%9F%91%8B;Full%20Stack%20%28MERN%20%26%20PERN%29%20Engineer;Nest.js%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript;Building%20Products.%20Teaching%20Minds.%20%F0%9F%9A%80"
+  alt="Typing SVG"
+/>
 
 <br/>
 
