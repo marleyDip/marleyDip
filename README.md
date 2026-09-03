@@ -208,6 +208,30 @@ Problem-solving, backend architecture, database modeling, and writing maintainab
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=marleyDip"
+  alt="Sofian Hasan's GitHub Activity Graph"
+/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=marleyDip"
+  alt="GitHub Trophies"
+/>
+
+</div>
+
 ## 🤝 Connect With Me
 
 <div align="center">
