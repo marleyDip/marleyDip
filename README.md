@@ -1,19 +1,18 @@
-[![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://marleyDip.io)
+[![MasterHead](https://raw.githubusercontent.com/NS-Sheam/NS-Sheam/main/assets/images/banners/dark-banner.gif)](https://nazmussakib.dev/)
 
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:dip.akand9899@gmail.com)
-[![Visit Portfolio](https://img.shields.io/badge/Explore%20My%20Portfolio-blue?&style=social&logo=react)](https://marleydip.netlify.app/)
-<img src="https://komarev.com/ghpvc/?username=marleyDip">
-<!-- [![HitCount](http://hits.dwyl.com/marleyDip/marleyDip.svg)](http://hits.dwyl.com/marleyDip/marleyDip) -->
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=marleyDip.marleyDip) -->
-<!--### Hi there 👋-->
-<h3 align="center">
-  Welcome to Md Sofian Hasan's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=650&lines=A+Passionate+Full+Stack+Web+Developer+from+Bangaladesh;Self+taught+MERN+Developer;2%2B+years+of+coding+experience;Always+learning+,+Always+building">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=HI!+I'm+Nazmus+Sakib+%F0%9F%91%8B;Full+Stack+Engineer+%7C+Web+Instructor;MERN+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Building+Products.+TTeachingMinds.+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+
+<p>
+  <a href="https://nazmussakib.dev/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-nazmussakib.dev-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=FF1CF7" alt="portfolio"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ns-sheam&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="views" />
+  <img src="https://img.shields.io/github/followers/ns-sheam?style=for-the-badge&color=FF1CF7&labelColor=0a0a0a&label=FOLLOWERS" alt="followers" />
 </p>
+
+</div>
 
 I’m a self-taught **software engineer** with a strong focus on **modern web development**. Having some **expertise** in **front-end development**. 
 
