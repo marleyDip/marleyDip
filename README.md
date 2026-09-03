@@ -133,6 +133,43 @@ const sofian = {
 
 ---
 
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://marleydip.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Visit%20My%20Portfolio-FF1CF7?style=for-the-badge&labelColor=0A0A0A" alt="Portfolio" />
+</a>
+
+<a href="https://github.com/marleyDip" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://www.linkedin.com/in/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://www.facebook.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github.com/NS-Sheam/NS-Sheam/blob/output/github-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+
+<br />
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65"
+  alt="Thanks for visiting"
+/>
+
+</div>
+
 
 ## 🤝 Connect With Me
 
@@ -141,8 +178,6 @@ const sofian = {
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-nazmussakib.dev-00F5FF?style=for-the-badge&labelColor=0a0a0a)](https://nazmussakib.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nazmus-sakib-sheam)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:123sheamfeni@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nazmus-sakib)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdY7PHMDlimtznZZHBHlcHw)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nazmus.sheam.sakib)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nazmus_sakib_sheam)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ns-sheam)
