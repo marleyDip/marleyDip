@@ -133,6 +133,32 @@ const sofian = {
 
 ---
 
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-nazmussakib.dev-00F5FF?style=for-the-badge&labelColor=0a0a0a)](https://nazmussakib.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nazmus-sakib-sheam)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:123sheamfeni@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nazmus-sakib)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdY7PHMDlimtznZZHBHlcHw)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nazmus.sheam.sakib)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nazmus_sakib_sheam)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ns-sheam)
+
+</div>
+
+---
+
+<div align="center">
+
+![snake gif](https://github.com/NS-Sheam/NS-Sheam/blob/output/github-snake-dark.svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks+for+visiting!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65" alt="footer wave"/>
+
+</div>
+
 I’m a self-taught **software engineer** with a strong focus on **modern web development**. Having some **expertise** in **front-end development**. 
 
 <img align="right" alt="coding" width="400" height="160" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" >
@@ -161,33 +187,6 @@ I am a passionate **MERN Stack developer** with expertise in building **dynamic 
 <a href="https://instagram.com/marley_dwip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marley_dwip" height="30" width="40" /></a>
 
 
-## Languages 📙
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![BootStrap5](https://img.shields.io/badge/-BootStrap-000000?style=flat&logo=bootstrap)
-![shadcn](https://img.shields.io/badge/-shadcn-000000?style=flat&logo=shadcn/ui)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-
-## Tools 🛠️
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
-![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
-![EReact](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux) 
-![Vite](https://img.shields.io/badge/-Vite-000000?style=flat&logo=vite) 
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express) <br />
-![tailwindcss](https://img.shields.io/badge/-Tailwindcss-000000?style=flat&logo=tailwindcss)
-![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=Vercel)
-![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase) 
-![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=VSCode)<br />
-![Microsoft Office ](https://img.shields.io/badge/-Microsoft%20Office-000000?style=flat&logo=microsoft%20office)
-  
 ## GitHub Overview 💻
 
 <p align="left">
