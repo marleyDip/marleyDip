@@ -175,13 +175,21 @@ Problem-solving, backend architecture, database modeling, and writing maintainab
 
 ## 📈 Contribution Graph
 
-<div align="center">[![Sofian Hasan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marleyDip&bg_color=0D1117&color=00F5FF&line=FF1CF7&point=FFFFFF&area=true&hide_border=true)](https://github.com/marleyDip/github-readme-activity-graph)</div>
+<div align="center">
+  
+  [![Sofian Hasan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marleyDip&bg_color=0D1117&color=00F5FF&line=FF1CF7&point=FFFFFF&area=true&hide_border=true)](https://github.com/marleyDip/github-readme-activity-graph)
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=marleyDip&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=2&column=4)](https://github.com/marleyDip)</div>
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=marleyDip&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=2&column=4)](https://github.com/marleyDip)
+
+</div>
 
 ---
 
