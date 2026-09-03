@@ -2,19 +2,25 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=800&size=32&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Hi!%20I'm%20Md.%20Sofian%20Hasan%20%F0%9F%91%8B;Full-Stack%20MERN%20%26%20PERN%20Engineer;Next.js%20%E2%80%A2%20NestJS%20%E2%80%A2%20TypeScript;Building%20Products.%20Teaching%20Minds.%20%F0%9F%9A%80"
+<img 
+  src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=800&size=32&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&repeat=true&width=750&height=70&lines=Hi!%20I'm%20Md.%20Sofian%20Hasan%20%F0%9F%91%8B;Full-Stack%20MERN%20%26%20PERN%20Engineer;Next.js%20%E2%80%A2%20NestJS%20%E2%80%A2%20TypeScript;Building%20Products.%20Teaching%20Minds.%20%F0%9F%9A%80"
   alt="Typing SVG"
 />
 
+<br />
+
 <p>
   <a href="https://marleydip.netlify.app/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-VISIT%20WEBSITE-FFD600?style=for-the-badge&labelColor=0A0A0A"
-      alt="Portfolio" 
+    <img
+      src="https://img.shields.io/badge/🌐%20PORTFOLIO-VISIT%20WEBSITE-FF1CF7?style=for-the-badge&labelColor=0A0A0A"
+      alt="Portfolio"
     />
   </a>
-
-<img src="https://komarev.com/ghpvc/?username=marleyDip&style=for-the-badge&color=8A2BE2&label=PROFILE%20VIEWS" alt="Profile Views" />
+  
+  <img 
+    src="https://komarev.com/ghpvc/?username=marleyDip&style=for-the-badge&color=8A2BE2&label=PROFILE%20VIEWS"
+    alt="Profile Views"
+  />
   
   <a href="https://github.com/marleyDip?tab=followers" target="_blank">
     <img
