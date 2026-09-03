@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/NS-Sheam/NS-Sheam/main/assets/images/banners/dark-banner.gif)](https://nazmussakib.dev/)
+[![MasterHead](./assets/banner.svg)](https://marleydip.netlify.app/)
 
 <div align="center">
 
