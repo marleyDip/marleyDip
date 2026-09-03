@@ -15,8 +15,10 @@
       alt="Portfolio" 
     />
   </a>
-  
+
+  <a>
   <img src="https://komarev.com/ghpvc/?username=marleyDip&style=for-the-badge&color=8A2BE2&label=PROFILE%20VIEWS" alt="Profile Views" />
+  </a>
   
   <a href="https://github.com/marleyDip?tab=followers" target="_blank">
     <img
