@@ -89,8 +89,6 @@ const sofian = {
 
 ## ⚡ What I'm Up To
 
-## ⚡ What I'm Up To
-
 <table>
 <tr>
 <td width="50%">
@@ -109,11 +107,11 @@ React, Next.js, TypeScript, Node.js, Express.js, NestJS, MongoDB & PostgreSQL.
 
 <td width="50%">
 
-🌱 **Learning DevOps** Docker, CI/CD Pipelines, GitHub Actions, VPS & Nginx.
+🌱 **_Learning DevOps_** Docker, CI/CD Pipelines, GitHub Actions, VPS & Nginx.
 
-💡 **Exploring** SaaS architecture, AI integrations, system design, and scalable multi-tenant applications.
+💡 **_Exploring_** SaaS architecture, AI integrations, system design, and scalable multi-tenant applications.
 
-🎯 **Improving** Problem-solving, backend architecture, database modeling, and writing maintainable code.
+🎯 **_Improving_** Problem-solving, backend architecture, database modeling, and writing maintainable code.
 
 </td>
 </tr>
