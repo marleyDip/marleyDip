@@ -28,29 +28,59 @@
 
 ---
 
+<!--
 <img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+-->
 
 ### `whoami`
 
 ```ts
-const nazmusSakib = {
-  title    : "Full Stack Developer & Web Instructor",
-  company  : "Programming Hero 🏫",
-  education: "B.Sc. CSE — Green University of Bangladesh",
-  location : "Dhaka, Bangladesh 🇧🇩",
+const sofian = {
+  title: "Full-Stack MERN & PERN Developer",
+  education: "B.Sc. in Information & Communication Engineering (ICE) - BAUET",
+  location: "Dhaka, Bangladesh 🇧🇩",
 
   stack: {
-    frontend : ["Next.js", "React", "TypeScript", "Tailwind"],
-    backend  : ["Node.js", "Express.js", "REST API"],
-    database : ["MongoDB", "PostgreSQL", "Prisma"],
-    auth     : ["BetterAuth", "JWT", "Firebase"],
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js", "NestJS", "REST APIs"],
+
+    database: {
+      SQL: ["PostgreSQL", "Prisma", "Schema Design", "Relationships", "Query Optimization"],
+      NoSQL: ["MongoDB", "Mongoose", "Data Modeling", "Aggregation Pipelines"],
+    },
+
+    auth: ["JWT", "BetterAuth", "Clerk", "Firebase"],
   },
 
-  currentFocus : ["DevOps", "CI/CD", "SaaS Architecture"],
-  teaching     : ["Full Stack", "Aggregation Pipelines", "API Design"],
-  openTo       : ["Collaborations", "Open Source", "Freelance Projects"],
-  motto        : "Build it. Break it. Teach it. Ship it. 🚢",
+  expertise: [
+    "Database Design & Data Modeling",
+    "Relational & NoSQL Databases",
+    "REST API Development",
+    "Full-Stack Application Architecture",
+  ],
+
+  building: [
+    "Scalable Full-Stack Applications",
+    "SaaS Products",
+    "Modern REST APIs",
+  ],
+
+  exploring: [
+    "System Design",
+    "DevOps & CI/CD",
+    "SaaS Architecture",
+  ],
+
+  openTo: [
+    "Collaborations",
+    "Open Source",
+    "Freelance Projects",
+    "Interesting Ideas",
+  ],
+
+  motto: "Build with purpose. Learn continuously. Ship with confidence. 🚀",
 };
+
 ```
 
 <br clear="right"/>
