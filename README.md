@@ -171,6 +171,23 @@ Problem-solving, backend architecture, database modeling, and writing maintainab
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/marleyDip">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marleyDip&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF1CF7&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marleyDip&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff"/>
+</a>
+
+<br/><br/>
+
+[![GitHub Streak](https://github-readme-streak-stats-orpin-five.vercel.app?user=marleyDip&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F5FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F5FF)](https://git.io/streak-stats)
+
+</div>
+
+---
+
 ## 🤝 Connect With Me
 
 <div align="center">
