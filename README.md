@@ -219,22 +219,3 @@ Problem-solving, backend architecture, database modeling, and writing maintainab
   />
 
 </div>
-
-
-## GitHub Overview 💻
-
-<p align="left">
-  <a href="https://github.com/marleyDip">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marleyDip&layout=compact&theme=radical" />
-  </a>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=marleyDip&theme=synthwave&show_icons=true" alt="marleyDip's GitHub stats" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/marleyDip">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marleyDip&theme=dark" />
-  </a>
-</p>
