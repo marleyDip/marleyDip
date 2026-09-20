@@ -49,8 +49,7 @@ interface Developer {
 
 const sofian: Developer = {
   title: "Full-Stack MERN & PERN Developer",
-  education:
-    "B.Sc. in Information & Communication Engineering (ICE) - BAUET",
+  education: "B.Sc. in Information & Communication Engineering (ICE) - BAUET",
   location: "Dhaka, Bangladesh 🇧🇩",
 
   stack: {
