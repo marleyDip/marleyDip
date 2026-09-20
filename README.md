@@ -23,9 +23,34 @@
 ### `whoami`
 
 ```ts
-const sofian = {
+type Database = {
+  sql: string[];
+  noSql: string[];
+};
+
+type Stack = {
+  frontend: string[];
+  backend: string[];
+  database: Database;
+  auth: string[];
+};
+
+interface Developer {
+  title: string;
+  education: string;
+  location: string;
+  stack: Stack;
+  expertise: string[];
+  building: string[];
+  exploring: string[];
+  openTo: string[];
+  motto: string;
+}
+
+const sofian: Developer = {
   title: "Full-Stack MERN & PERN Developer",
-  education: "B.Sc. in Information & Communication Engineering (ICE) - BAUET",
+  education:
+    "B.Sc. in Information & Communication Engineering (ICE) - BAUET",
   location: "Dhaka, Bangladesh 🇧🇩",
 
   stack: {
@@ -33,11 +58,22 @@ const sofian = {
     backend: ["Node.js", "Express.js", "NestJS", "REST APIs"],
 
     database: {
-      SQL: ["PostgreSQL", "Prisma", "Schema Design", "Relationships", "Query Optimization"],
-      NoSQL: ["MongoDB", "Mongoose", "Data Modeling", "Aggregation Pipelines"],
+      SQL: [
+        "PostgreSQL",
+        "Prisma",
+        "Schema Design",
+        "Relationships",
+        "Query Optimization",
+      ],
+      NoSQL: [
+        "MongoDB",
+        "Mongoose",
+        "Data Modeling",
+        "Aggregation Pipelines",
+      ],
     },
 
-    auth: ["JWT", "BetterAuth", "Clerk", "Firebase"],
+    auth: ["JWT", "Better Auth", "Clerk", "Firebase"],
   },
 
   expertise: [
@@ -68,12 +104,7 @@ const sofian = {
 
   motto: "Build with purpose. Learn continuously. Ship with confidence. 🚀",
 };
-
 ```
-
-<br clear="right"/>
-
----
 
 ## ⚡ What I'm Up To
 
